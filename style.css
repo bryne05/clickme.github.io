@@ -1,0 +1,32 @@
+#section1 {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(./assets/bg-3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+h1 {
+  color: black;
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#section-yes {
+  width: 100vw;
+  height: 1450px;
+
+  background-image: url(./assets/bg-yes.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#section-sad {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(./assets/no-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
